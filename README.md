@@ -15,7 +15,7 @@ To get started with the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-tailwind-searchapp.git
+   git clone https://github.com/zahhar-ismail/react-tailwind-searchapp.git
    cd react-tailwind-searchapp
    ```
 
@@ -65,15 +65,3 @@ The project is set up with **ESLint** for maintaining code quality. To run the l
 ```bash
 npm run lint
 ```
-
-## Deployment
-
-To deploy the app to production, follow the official [Next.js deployment guides](https://nextjs.org/docs/deployment).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides an overview of the app's features, setup, and available scripts to manage development tasks like building, testing, and linting. Make sure to replace the `git clone` URL with the actual repository URL if it's hosted on a platform like GitHub.
